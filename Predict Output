@@ -66,7 +66,7 @@ function y(a){
    console.log(a);    // -> 10
    return a*2;        // -> 20
 }
-b = y(10) -> b = y(20);           
+b = y(10)             // -> y(10) = 20
 console.log(b);       // -> 20
 
 Answer: 15, 10, 20
